@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsha Yadav</h1>
-<h3 align="center">Web Developer | Deep Learning Enthusiast | SAP Intern @ PwC</h3>
+<h3 align="center">Web Developer | Deep Learning Enthusiast 
 
 ---
 
