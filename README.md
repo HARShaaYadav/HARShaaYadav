@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Languages & Tools
+
 ## 🛠️ Languages & Tools
 <table>
   <tr>
