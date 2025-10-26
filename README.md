@@ -1,15 +1,16 @@
 <h1 align="center">Hi 👋, I'm Harsha Yadav</h1>
-<h3 align="center">A passionate Web Developer & Deep Learning enthusiast from India</h3>
+<h3 align="center">Web Developer | Deep Learning Enthusiast | SAP Intern @ PwC</h3>
 
 ---
 
 ## 👩‍💻 About Me
-- 🎓 Computer Science and Engineering student passionate about technology and innovation.  
-- 💻 Interested in **Web Development** and **Deep Learning**.  
-- 🚀 Focused on building efficient, user-friendly, and scalable applications.  
-- 🌱 Currently learning **Cloud Application Programming Model**.  
-- 🤝 Open to collaborating on impactful projects and exploring emerging technologies.  
-- ⭐ *"Building intelligent and impactful solutions through innovation and code."*
+- 🎓 CSE student passionate about technology and innovation  
+- 🌍 From India, building solutions that help people  
+- 💻 Strong interest in **Web Development** & **Deep Learning**  
+- 🚀 Focused on building scalable, user-friendly applications  
+- 🧠 Currently exploring **SAP Cloud Application Programming Model**  
+- 🤝 Love to collaborate on cool & impactful ideas  
+- ⭐ *"Turning ideas into intelligent solutions through code."*
 
 ---
 
@@ -56,3 +57,9 @@
 
 ### 🔥 Fun Fact  
 I love exploring new places, creating cool tech stuff, and improving every single day! 🚀
+
+---
+
+<!--
+This README is for GitHub Profile. Feel free to customize anytime! 😄
+-->
