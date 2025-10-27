@@ -86,6 +86,31 @@
 </p>
 
 ---
+## 📊 GitHub Stats & Achievements
+
+### 🔥 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARShaaYadav&theme=tokyonight" alt="GitHub Streak" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
+
+---
+
+### 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARShaaYadav&theme=discord&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/?username=HARShaaYadav" alt="GitHub Achievements" />
+</p>
+
+<p align="center">
+  🚀 More achievements loading… keep contributing!
+</p>
+
 
 ### 🔥 Fun Fact  
 I love exploring new places, creating cool tech stuff, and improving every single day! 🚀
