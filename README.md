@@ -98,25 +98,10 @@
 
 ---
 
-### 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARShaaYadav&theme=discord&column=4&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-achievements.vercel.app/api/?username=HARShaaYadav" alt="GitHub Achievements" />
-</p>
-
-<p align="center">
-  🚀 More achievements loading… keep contributing!
-</p>
-
 
 ### 🔥 Fun Fact  
 I love exploring new places, creating cool tech stuff, and improving every single day! 🚀
 
 ---
 
-<!--
-This README is for GitHub Profile. Feel free to customize anytime! 😄
--->
+
