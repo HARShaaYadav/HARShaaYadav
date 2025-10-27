@@ -108,7 +108,7 @@
   </a>
 </p>
 
-<p align="center">🔥 More achievements unlocking soon — keep coding!</p>
+
 
 
 ---
