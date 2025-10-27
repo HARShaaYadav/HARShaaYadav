@@ -97,13 +97,7 @@
 </p>
 🏆 GitHub Achievements
 
-<p align="center">
-   🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HARShaaYadav&theme=tokyonight&no-bg=true&no-frame=true&column=6" alt="Trophies" />
-</p>
 
-</p>
 
 <p align="center">
   <a href="https://github.com/HARShaaYadav">
