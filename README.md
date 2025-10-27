@@ -95,7 +95,7 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-### 🏆 GitHub Achievements
+🏆 GitHub Achievements
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HARShaaYadav&theme=discord&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
