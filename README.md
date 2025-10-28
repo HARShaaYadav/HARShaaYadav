@@ -94,7 +94,12 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav &theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 🏆 GitHub Achievements
 
