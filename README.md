@@ -91,9 +91,6 @@
 ### 🔥 GitHub Stats
 
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
 
 
 ![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
