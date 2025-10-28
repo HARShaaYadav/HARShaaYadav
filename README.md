@@ -89,9 +89,6 @@
 ## 📊 GitHub Stats & Achievements
 
 ### 🔥 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HARShaaYadav&theme=tokyonight" alt="GitHub Streak" />
-</p>
 
 
 <p align="left">
