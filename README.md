@@ -89,9 +89,11 @@
 ## 📊 GitHub Stats & Achievements
 
 ### 🔥 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HARShaaYadav&theme=tokyonight" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=HARShaaYadav&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
