@@ -91,10 +91,6 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
 
 
 
-## 📊 GitHub Stats
-- Public Repositories: ![repos](https://img.shields.io/github/repos/HARShaaYadav)
-- Followers: ![followers](https://img.shields.io/github/followers/HARShaaYadav)
-- Stars: ![stars](https://img.shields.io/github/stars/HARShaaYadav)
 
 
 ---
