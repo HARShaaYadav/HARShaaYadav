@@ -63,7 +63,7 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55"/><br>MongoDB
 </td>
 <td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logosos/git-scm/git-scm-icon.svg" width="55"/><br>Git
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/><br>Git
 </td>
 </tr>
 
@@ -82,36 +82,27 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
 
 ---
 
-## 📈 Commit History & Contributions
+## 📈 GitHub Commit Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=tokyo-night" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats & Achievements
-
+## 📊 GitHub Stats
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400"
-    height="180"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav&layout=compact&theme=radical&hide_border=false&cache_seconds=86400"
-    height="180"
-  />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HARShaaYadav&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
+---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/starstruck-default.png" width="80"/>
-  <img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=HARShaaYadav&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
