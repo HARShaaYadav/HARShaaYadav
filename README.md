@@ -92,14 +92,19 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
 ## 📊 GitHub Stats & Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&hide_border=false&cache_seconds=86400"
+    height="180"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav&layout=compact&theme=radical" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav&layout=compact&theme=radical&hide_border=false&cache_seconds=86400"
+    height="180"
+  />
 </p>
 
----
 
 ## 🏆 GitHub Achievements
 <p align="center">
