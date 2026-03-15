@@ -4,11 +4,11 @@
 ---
 
 ## 👩‍💻 About Me
-- 🎓 CSE student passionate about technology and innovation  
+- 🎓 Passionate about technology and innovation  
 - 🌍 From India, building solutions that help people  
 - 💻 Strong interest in **Web Development** & **Deep Learning**  
 - 🚀 Focused on building scalable, user-friendly applications  
-- 🧠 Currently exploring **SAP Cloud Application Programming Model**  
+- 🧠 Currently exploring **SAP ABAP Fiori & Mobile Development**  
 - 🤝 Love to collaborate on cool & impactful ideas  
 - ⭐ *"Turning ideas into intelligent solutions through code."*
 
