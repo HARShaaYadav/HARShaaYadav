@@ -107,7 +107,7 @@ Keras, MongoDB, Git, GitHub, VS Code, Cloud & Deployment**
 </td>
 <td align="center" width="120">
 <img src=https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg
-  width="55"/><br>ABAP / Fiori
+  width="55"/><br>ABAP
 </td>
 </tr>
 
