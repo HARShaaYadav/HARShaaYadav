@@ -3,20 +3,27 @@
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 Passionate about technology and innovation  
-- 🌍 From India, building solutions that help people  
+## 👨‍💻 About Me
+- 🎓 Passionate about building impactful tech solutions  
+- 🌍 From India, focused on solving real-world problems  
 - 💻 Strong interest in **Web Development** & **Deep Learning**  
-- 🚀 Focused on building scalable, user-friendly applications  
-- 🧠 Currently exploring **SAP ABAP Fiori & Mobile Development**  
-- 🤝 Love to collaborate on cool & impactful ideas  
+- 🚀 Building scalable, user-centric applications  
+- 🧠 Exploring **SAP ABAP, Fiori & Mobile Development**  
+- 🤝 Open to collaboration on innovative projects  
 - ⭐ *"Turning ideas into intelligent solutions through code."*
+
+---
+
+## 💡 Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
 
 ---
 
 ## 💬 Ask Me About
 **HTML, CSS, JavaScript, React, Next.js, SAP ABAP, Fiori, Python, TensorFlow,  
-Keras, Git, GitHub, VS Code, SAP Cloud Platform**
+Keras, MongoDB, Git, GitHub, VS Code, Cloud & Deployment**
 
 ---
 
@@ -75,6 +82,42 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/><br>Docker
 </td>
 <td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="55"/><br>AWS
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="55"/><br>Netlify
+</td>
+<td align="center" width="120">
+<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="55"/><br>Vercel
+</td>
+<td align="center" width="120">
+<img src="https://seeklogo.com/images/R/render-logo-66C1A1C92B-seeklogo.com.png" width="55"/><br>Render
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+<img src="https://railway.app/brand/logo-light.png" width="55"/><br>Railway
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="55"/><br>SAP
+</td>
+<td align="center" width="120">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SAP_logo.svg/2560px-SAP_logo.svg.png" width="55"/><br>ABAP / Fiori
+</td>
+</tr>
+
+<tr>
+<td align="center" width="120">
+📱<br>Mobile Development
+</td>
+<td align="center" width="120">
+⚡<br>SAP Joule
+</td>
+<td align="center" width="120">
 ✅ More coming soon...
 </td>
 </tr>
@@ -87,21 +130,14 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=github-compact&hide_border=true" />
 </p>
 
---
+---
 
 ## 📊 GitHub Stats
-
 ![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=HARShaaYadav)
 
-
 ---
-## 🧠 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav&layout=compact&theme=radical&hide_border=true" />
-</p>
 
 ## 🔥 Fun Fact
-I love exploring new places, creating cool tech stuff, and improving every single day 🚀
+I enjoy exploring new places, building cool tech, and continuously improving 🚀
