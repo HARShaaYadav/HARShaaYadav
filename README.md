@@ -97,6 +97,11 @@ Keras, Git, GitHub, VS Code, SAP Cloud Platform**
 
 
 ---
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HARShaaYadav&layout=compact&theme=radical&hide_border=true" />
+</p>
 
 ## 🔥 Fun Fact
 I love exploring new places, creating cool tech stuff, and improving every single day 🚀
