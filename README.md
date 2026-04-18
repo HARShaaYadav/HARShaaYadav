@@ -103,10 +103,11 @@ Keras, MongoDB, Git, GitHub, VS Code, Cloud & Deployment**
 <img src="https://railway.app/brand/logo-light.png" width="55"/><br>Railway
 </td>
 <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="55"/><br>SAP
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="55"/><br>SAP Fiori
 </td>
 <td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/SAP_logo.svg/2560px-SAP_logo.svg.png" width="55"/><br>ABAP / Fiori
+<img src=https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg
+  width="55"/><br>ABAP / Fiori
 </td>
 </tr>
 
