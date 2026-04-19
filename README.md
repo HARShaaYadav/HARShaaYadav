@@ -8,7 +8,6 @@
 - 🌍 From India, focused on solving real-world problems  
 - 💻 Strong interest in **Web Development** & **Deep Learning**  
 - 🚀 Building scalable, user-centric applications  
-- 🧠 Exploring **SAP ABAP, Fiori & Mobile Development**  
 - 🤝 Open to collaboration on innovative projects  
 - ⭐ *"Turning ideas into intelligent solutions through code."*
 
