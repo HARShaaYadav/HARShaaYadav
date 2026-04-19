@@ -45,101 +45,42 @@ TensorFlow, Keras, MongoDB, Power BI, Power Apps, Cloud & Deployment**
 ---
 
 ## 🛠️ Languages & Tools
-<table width="100%">
 
-<tr>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60%"/><br>HTML
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60%"/><br>CSS
-</td>
-<td align="center" width="33%">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60%"/><br>JavaScript
-</td>
-</tr>
+### 💻 Programming & Web
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="60%"/><br>React
-</td>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="60%"/><br>Next.js
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="60%"/><br>Node.js
-</td>
-</tr>
+### 🧠 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="60%"/><br>Java
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60%"/><br>Python
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="60%"/><br>Kotlin
-</td>
-</tr>
+### 📱 Mobile & SAP
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
+![SAP Fiori](https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge)
+![SAP ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge)
+![SAP Joule](https://img.shields.io/badge/Joule-AI-orange?style=for-the-badge)
 
-<tr>
-<td align="center">
-<img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="60%"/><br>Android Studio
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="60%"/><br>Power BI
-</td>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Power_Apps.svg" width="60%"/><br>Power Apps
-</td>
-</tr>
+### 📊 Data & AI
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge)
 
-<tr>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="60%"/><br>TensorFlow
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="60%"/><br>MongoDB
-</td>
-<td align="center">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="60%"/><br>Git
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="60%"/><br>VS Code
-</td>
-<td align="center">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="60%"/><br>Docker
-</td>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="60%"/><br>AWS
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="60%"/><br>Netlify
-</td>
-<td align="center">
-<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="60%"/><br>Vercel
-</td>
-<td align="center">
-<img src="https://railway.app/brand/logo-light.png" width="60%"/><br>Railway
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="60%"/><br>SAP
-</td>
-<td align="center">📱<br>Mobile</td>
-<td align="center">⚡<br>Joule</td>
-</tr>
-
-</table>
+### ☁️ Tools & Cloud
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 
 ---
 
@@ -157,3 +98,5 @@ TensorFlow, Keras, MongoDB, Power BI, Power Apps, Cloud & Deployment**
 
 ---
 
+## 🔥 Fun Fact
+I enjoy exploring new places, building cool tech, and continuously improving 🚀
