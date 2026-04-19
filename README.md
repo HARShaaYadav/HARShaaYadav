@@ -9,24 +9,22 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🎓 Passionate about building impactful tech solutions  
-- 🌍 From India, focused on solving real-world problems  
-- 💻 Strong interest in **Web Development** & **Deep Learning**  
-- 🚀 Building scalable, user-centric applications  
-- 🤝 Open to collaboration on innovative projects  
-- ⭐ *"Turning ideas into intelligent solutions through code."*
-
----
-
-## 💡 Random Dev Quote
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Deep+Learning+Enthusiast;Android+Developer📱;Building+Impactful+Projects🚀;Always+Learning...&center=true&width=550&height=50">
 </p>
 
 ---
 
-## ⚡ Live Activity & Contributions
+## 👨‍💻 About Me
+- 🎓 Passionate about building impactful tech solutions  
+- 🌍 Focused on solving real-world problems  
+- 💻 Web + AI + Mobile Developer  
+- 🚀 Love building scalable applications  
+- 🤝 Open to collaboration  
+
+---
+
+## 📊 Live GitHub Dashboard
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&count_private=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=HARShaaYadav&theme=radical" height="160"/>
@@ -38,23 +36,26 @@
 
 ---
 
-## 💬 Ask Me About
-**HTML, CSS, JavaScript, React, Next.js, Node.js, Java, Python, Kotlin, SAP ABAP, Fiori,  
-TensorFlow, Keras, MongoDB, Power BI, Power Apps, Cloud & Deployment**
+## ⚡ Contribution Activity
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=react-dark&hide_border=true" />
+</p>
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ Skills
+<details>
+<summary>✨ Click to Expand Skills</summary>
 
-### 💻 Programming & Web
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+### 💻 Web & Programming
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🧠 Programming Languages
+### 🧠 Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
@@ -66,7 +67,7 @@ TensorFlow, Keras, MongoDB, Power BI, Power Apps, Cloud & Deployment**
 ![SAP ABAP](https://img.shields.io/badge/ABAP-0FAAFF?style=for-the-badge)
 ![SAP Joule](https://img.shields.io/badge/Joule-AI-orange?style=for-the-badge)
 
-### 📊 Data & AI
+### 📊 AI & Data
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -82,21 +83,23 @@ TensorFlow, Keras, MongoDB, Power BI, Power Apps, Cloud & Deployment**
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 
+</details>
+
 ---
 
-## 📈 Contribution Graph
+## 💡 Random Dev Quote
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=react-dark&hide_border=true" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
 
 ---
 
-## 🧠 Interactive Section
+## 🎯 Fun Section
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Projects...;Learning+AI+%26+Web...;Exploring+Android+Development📱;Always+Improving🚀&center=true&width=500&height=45">
+  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
 </p>
 
 ---
 
 ## 🔥 Fun Fact
-I enjoy exploring new places, building cool tech, and continuously improving 🚀
+✨ I enjoy exploring new places, building cool tech, and constantly improving 🚀
