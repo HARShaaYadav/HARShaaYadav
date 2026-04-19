@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Harsha Yadav</h1>
 <h3 align="center">Web Developer | Deep Learning Enthusiast</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HARShaaYadav&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/HARShaaYadav?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/HARShaaYadav?label=Stars&style=social" />
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -20,124 +26,88 @@
 
 ---
 
-## 💬 Ask Me About
-**HTML, CSS, JavaScript, React, Next.js, SAP ABAP, Fiori, Python, TensorFlow,  
-Keras, MongoDB, Git, GitHub, VS Code, Cloud & Deployment**
+## ⚡ Live Activity & Contributions
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=HARShaaYadav&theme=radical" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARShaaYadav&theme=radical" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/harsha-yadav-637345273" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-  </a>
-</p>
+## 💬 Ask Me About
+**HTML, CSS, JavaScript, React, Next.js, Node.js, Java, Python, Kotlin, SAP ABAP, Fiori,  
+TensorFlow, Keras, MongoDB, Power BI, Power Apps, Cloud & Deployment**
 
 ---
 
 ## 🛠️ Languages & Tools
 <table>
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="55"/><br>HTML5
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="55"/><br>CSS3
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="55"/><br>JavaScript
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50"/><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50"/><br>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/><br>JS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50"/><br>React</td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="55"/><br>React
-</td>
-<td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="55"/><br>Next.js
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="55"/><br>Python
-</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="50"/><br>Next.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50"/><br>Node.js</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/><br>Java</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50"/><br>Python</td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="55"/><br>TensorFlow
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="55"/><br>MongoDB
-</td>
-<td align="center" width="120">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="55"/><br>Git
-</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" width="50"/><br>Kotlin</td>
+<td align="center"><img src="https://developer.android.com/static/studio/images/new-studio-logo-1_1920.png" width="50"/><br>Android Studio</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="50"/><br>Power BI</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Microsoft_Power_Apps.svg" width="50"/><br>Power Apps</td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="55"/><br>VS Code
-</td>
-<td align="center" width="120">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="55"/><br>Docker
-</td>
-<td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="55"/><br>AWS
-</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50"/><br>TensorFlow</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50"/><br>MongoDB</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50"/><br>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50"/><br>VS Code</td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-<img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="55"/><br>Netlify
-</td>
-<td align="center" width="120">
-<img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="55"/><br>Vercel
-</td>
-<td align="center" width="120">
-<img src="https://seeklogo.com/images/R/render-logo-66C1A1C92B-seeklogo.com.png" width="55"/><br>Render
-</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50"/><br>Docker</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/aws-2.svg" width="50"/><br>AWS</td>
+<td align="center"><img src="https://cdn.worldvectorlogo.com/logos/netlify.svg" width="50"/><br>Netlify</td>
+<td align="center"><img src="https://assets.vercel.com/image/upload/front/favicon/vercel/180x180.png" width="50"/><br>Vercel</td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-<img src="https://railway.app/brand/logo-light.png" width="55"/><br>Railway
-</td>
-<td align="center" width="120">
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="55"/><br>SAP Fiori
-</td>
-<td align="center" width="120">
-<img src=https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg
-  width="55"/><br>ABAP
-</td>
+<td align="center"><img src="https://railway.app/brand/logo-light.png" width="50"/><br>Railway</td>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/SAP_2011_logo.svg" width="50"/><br>SAP</td>
+<td align="center">📱<br>Mobile Dev</td>
+<td align="center">⚡<br>SAP Joule</td>
 </tr>
 
 <tr>
-<td align="center" width="120">
-📱<br>Mobile Development
-</td>
-<td align="center" width="120">
-⚡<br>SAP Joule
-</td>
-<td align="center" width="120">
-✅ More coming soon...
-</td>
+<td align="center">🚀<br>More Soon</td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </table>
 
 ---
 
-## 📈 GitHub Commit Activity
+## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=github-compact&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=HARShaaYadav)
+## 🧠 Interactive Section
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Cool+Projects...;Learning+AI+%26+Web...;Exploring+Android+Development📱;Always+Improving🚀&center=true&width=500&height=45">
+</p>
 
 ---
-
-## 🔥 Fun Fact
-I enjoy exploring new places, building cool tech, and continuously improving 🚀
