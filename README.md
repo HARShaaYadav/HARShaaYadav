@@ -24,6 +24,15 @@
 
 ---
 
+## 🌐 Connect With Me
+<p align="left">
+  <a href="https://linkedin.com/in/harsha-yadav-637345273" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+  </a>
+</p>
+
+---
+
 ## 📊 Live GitHub Dashboard
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&count_private=true" height="160"/>
@@ -44,8 +53,6 @@
 ---
 
 ## 🛠️ Skills
-<details>
-<summary>✨ Click to Expand Skills</summary>
 
 ### 💻 Web & Programming
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -83,8 +90,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge)
 
-</details>
-
 ---
 
 ## 💡 Random Dev Quote
@@ -94,12 +99,3 @@
 
 ---
 
-## 🎯 Fun Section
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=radical" />
-</p>
-
----
-
-## 🔥 Fun Fact
-✨ I enjoy exploring new places, building cool tech, and constantly improving 🚀
