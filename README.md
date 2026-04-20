@@ -5,8 +5,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=HARShaaYadav&label=Profile%20views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/HARShaaYadav?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/HARShaaYadav?label=Stars&style=social" />
+  
 </p>
 
 
