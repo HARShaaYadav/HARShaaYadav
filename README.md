@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsha Yadav</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Deep+Learning+Enthusiast;Android+Developer📱;Building+Impactful+Projects🚀;Always+Learning...&center=true&width=550&height=50">
+</p>
 <h3 align="center">Web Developer | Deep Learning Enthusiast</h3>
 
 <p align="center">
@@ -7,11 +10,6 @@
   <img src="https://img.shields.io/github/stars/HARShaaYadav?label=Stars&style=social" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Deep+Learning+Enthusiast;Android+Developer📱;Building+Impactful+Projects🚀;Always+Learning...&center=true&width=550&height=50">
-</p>
 
 ---
 
