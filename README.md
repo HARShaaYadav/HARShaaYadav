@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Harsha Yadav</h1>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Deep+Learning+Enthusiast;Android+Developer📱;Building+Impactful+Projects🚀;Always+Learning...&center=true&width=550&height=50">
 </p>
-
-
-
 
 ---
 
@@ -21,6 +19,14 @@
 <p align="left">
   <a href="https://linkedin.com/in/harsha-yadav-637345273" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
+  </a>
+  
+  <a href="https://instagram.com/harshayadav251" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
+  </a>
+
+  <a href="mailto:harshabasauli@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" width="50"/>
   </a>
 </p>
 
@@ -91,4 +97,3 @@
 </p>
 
 ---
-
