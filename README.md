@@ -16,20 +16,19 @@
 ---
 
 ## 🌐 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/harsha-yadav-637345273" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="50" />
-  </a>
-  
-  <a href="https://instagram.com/harshayadav251" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="50" />
-  </a>
+<p align="center">
+  <a href="https://linkedin.com/in/harsha-yadav-637345273">
+    <img src="https://img.icons8.com/color/48/linkedin.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="mailto:harshabasauli@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="40" width="50"/>
+  <a href="https://instagram.com/harshayadav251">
+    <img src="https://img.icons8.com/color/48/instagram-new.png"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="mailto:harshabasauli@gmail.com">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"/>
   </a>
 </p>
-
 ---
 
 ## 📊 Live GitHub Dashboard
