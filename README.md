@@ -45,6 +45,15 @@
 ---
 ---
 
+## 📈 Profile Insights
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HARShaaYadav&label=Profile%20Views&color=blue&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/HARShaaYadav?label=Followers&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/HARShaaYadav?affiliations=OWNER&style=for-the-badge" />
+</p>
+
+---
+
 
 
 
