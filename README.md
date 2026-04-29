@@ -45,14 +45,12 @@
 ---
 ---
 
-## 📈 Profile Insights
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HARShaaYadav&label=Profile%20Views&color=blue&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/HARShaaYadav?label=Followers&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/HARShaaYadav?affiliations=OWNER&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Developer-Active-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Projects-Production%20Ready-orange?style=for-the-badge" />
 </p>
 
----
 
 
 
