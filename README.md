@@ -45,12 +45,6 @@
 ---
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Developer-Active-blueviolet?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Projects-Production%20Ready-orange?style=for-the-badge" />
-</p>
-
 
 
 
