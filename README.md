@@ -43,6 +43,13 @@
 </p>
 
 ---
+---
+
+## 🏆 GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HARShaaYadav&theme=radical&no-frame=true&margin-w=10&row=2&column=4" />
+</p>
+
 
 ## ⚡ Contribution Activity
 <p align="center">
