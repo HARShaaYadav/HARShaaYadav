@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harsha Yadav</h1>
 
-<p align="center">
+l<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Web+Developer;Deep+Learning+Enthusiast;Android+Developer📱;Building+Impactful+Projects🚀;Always+Learning...&center=true&width=550&height=50">
 </p>
 
