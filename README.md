@@ -34,7 +34,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical&count_private=true" height="160"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=HARShaaYadav&show_icons=true&theme=radical" />
   <img src="https://streak-stats.demolab.com?user=HARShaaYadav&theme=radical" height="160"/>
 </p>
 
