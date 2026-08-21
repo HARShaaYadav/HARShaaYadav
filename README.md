@@ -10,7 +10,8 @@
 - 🌍 Focused on solving real-world problems  
 - 💻 Web + AI + Mobile Developer  
 - 🚀 Love building scalable applications  
-- 🤝 Open to collaboration  
+- 🤝 Open to collaboration
+- Building DoneYet
 
 ---
 
