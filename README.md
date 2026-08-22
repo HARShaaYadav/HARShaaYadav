@@ -11,7 +11,7 @@
 - 💻 Web + AI + Mobile Developer  
 - 🚀 Love building scalable applications  
 - 🤝 Open to collaboration
-- Currently building DoneYet
+
 
 ---
 
