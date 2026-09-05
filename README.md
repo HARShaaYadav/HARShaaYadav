@@ -33,26 +33,28 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HARShaaYadav&theme=radical" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HARShaaYadav&theme=radical" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=HARShaaYadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+
+<br/>
+
+![](https://streak-stats.demolab.com/?user=HARShaaYadav&theme=dark&hide_border=false)
+
+<br/>
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=HARShaaYadav&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
----
 
+### 📈 Contribution Graph
 
-
-
-
-## ⚡ Contribution Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&theme=react-dark&hide_border=true" />
+  <img
+    width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=HARShaaYadav&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
 </p>
-
 ---
 
 ## 🛠️ Skills
