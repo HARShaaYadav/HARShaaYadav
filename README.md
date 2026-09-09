@@ -37,7 +37,9 @@
 
 
 ---
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=HarshaYadav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaYadav&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/> </p>
 
+<p align="center"> <img src="https://streak-stats.demolab.com/?user=HarshaYadav&theme=tokyonight&hide_border=true" alt="GitHub Streak"/> </p>
 ### 📈 Contribution Graph
 
 <p align="center">
