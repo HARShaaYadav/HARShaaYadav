@@ -33,7 +33,7 @@
 ---
 
 ## 📊 GitHub Stats
-![](https://streak-stats.demolab.com/?user=HARShaaYadav&theme=light&hide_border=false)
+![](https://streak-stats.demolab.com/?user=HARShaaYadav&theme=dark&hide_border=false)
 
 
 ---
