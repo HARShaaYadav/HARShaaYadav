@@ -34,9 +34,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://streak-stats.demolab.com/?user=HARShaaYadav&hide_border=false
-&theme=tokyonight
-)<br/>
+![](https://streak-stats.demolab.com/?user=HARShaaYadav&hide_border=false&theme=tokyonight)
 
 
 ---
